@@ -1,0 +1,10 @@
+name          'dougneal-libnetwork'
+version       '0.1.0'
+source        'UNKNOWN'
+author        'dougneal'
+license       'MIT'
+summary       'UNKNOWN'
+description   'UNKNOWN'
+project_page  'UNKNOWN'
+
+dependency 'puppetlabs/stdlib', '>= 3.0.0'
